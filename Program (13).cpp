@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n, reversed Number = 0, remainder;
 
-    cout << "Enter an integer: ";
+    cout << "Enter Your Number: ";
     cin >> n;
 
     while(n != 0) {
